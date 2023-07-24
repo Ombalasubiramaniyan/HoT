@@ -1,0 +1,71 @@
+.container{
+    background-image: linear-gradient(135deg, #f5aac2 10%, #4dd9fc);
+    width: 90%;
+    height: 270px;
+    margin-left: 95px;
+    border-radius: 3px;
+    box-shadow: 2px 0px 10px black;
+}
+.item{
+    color: black;
+    position: relative;
+   
+    width: 45%;
+    height: 270px;
+}
+.data{
+   
+    position: relative;
+    width: 45%;
+    top:-285px;
+    left: 577px;
+    height: 265px;
+}
+
+.detail {
+  font-size:20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  position: relative;
+  top:60px;
+}
+.product{
+    font-size:20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  position: relative;
+  top:30px;
+}
+.product li{
+    list-style-type: none;
+    
+}
+li{
+    list-style-type:circle;
+}
+.button{
+    position: absolute;
+    top:240px;
+    left:400px;
+   
+}
+a{
+    text-decoration: none;
+    color:black;
+    background-color:#fff;
+    padding:6px 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:hover{
+    background-color: black;
+    color:#fff
+}
+.pid{
+   
+   
+    color:red
+}
+.logo{
+    position: absolute;
+    right: 10px;
+    top:28px;
+    font-size: 20px;
+}

@@ -1,0 +1,61 @@
+/*nav par*/
+#bg {
+    background-image: url('img/lap.jpg');
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+
+
+body {
+    background-color: #fff;
+}
+
+.title {
+    position: relative;
+    margin-top: 50px;
+    text-align: center;
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont,
+     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+      'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    border-bottom: 1px dashed rgba(107, 106, 106, 0.247);
+    z-index: 100;
+}
+
+#buy {
+    padding: 5px 43px;
+    color: #04b91c;
+    background-color: white;
+    display: block;
+}
+
+#buy:hover {
+    background-color: green;
+    color: white;
+}
+
+.cam {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    text-align: center;
+}
+
+.img {
+    width: 80%;
+    padding: 0px;
+}
+.banner{
+    position: absolute;
+    z-index: 100;
+    top:200px;
+    font-size:large;
+    font-size: 35px;
+    left: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;  
+}

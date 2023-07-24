@@ -7,7 +7,7 @@ session_start();
 <html lang="en">
 
 <head>
-    <title>Mobile-HOT</title>
+    <title>mens-HOT</title>
     <!--bootstap-->
     <link rel="stylesheet" href="fontawesome-free-6.2.1-web/css/all.min.css">
     <link rel="stylesheet" href="bootstrap-5.3.0-alpha1-dist/css/bootstrap.min.css">
